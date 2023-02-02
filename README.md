@@ -14,7 +14,7 @@ I was most interested in finding out what variables distinguish each star type.
 2) I then created many scatter graphs comparing 2 variables.
 - I found that star of types 0 (Brown Dwarf) and 1 (Red Dwarf) have the smallest ranges for all of the varibles except for magnitude. 
 - Stars of type 5 (Hypergiant) have the largest ranges for all the variables, except for magnitude and star color.
-- I also saw in the graphs that specifics magnitude seemed to correlate with each star type, without much overall between types.
+- I also saw in the graphs that specifics magnitude seemed to correlate with each star type, without much overlap between types.
 
 3) I also tried to recreate the Hertzsprung-Russell Diagram by creating a scatter graph of star temperature vs absolute magnitude.
 ![image](https://user-images.githubusercontent.com/62407356/216208819-05decafa-38bc-4817-b44d-c7b89e828f26.png)
